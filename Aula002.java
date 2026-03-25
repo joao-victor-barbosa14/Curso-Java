@@ -8,6 +8,6 @@ public class Aula002 {
         int soma = number01 + number02;
         
         System.out.println("Soma: " + soma);
-        System.out.println("O valor de PI é:" + pi);
+        System.out.println("O valor de PI é: " + pi);
     }
 }
